@@ -6,6 +6,8 @@ Each commit marks a stage during the build-out of the app.
 1. Create a new Single View App and install the ArcGIS Runtime SDK pod
 2. Add a basemap, zoom to DC, and add some CCTV cameras (from [Open Data DC](http://opendata.dc.gov/datasets/99d13287b85240b89bd46b2aa89e1acf_11))
 
-See the [iOS Walkthrough](https://github.com/nixta/hello-world-arcgis-runtime-ios) for more details
+See the [iOS Walkthrough](https://github.com/nixta/hello-world-arcgis-runtime-ios) for more details.
+
+See also the [workaround](https://gist.github.com/nixta/008083f6cb3c13917644) for adding an AGSMapView to a UIViewController hierarchy with AutoLayout in Yosemite.
 
 This was used during the "ArcGIS Runtime SDKs: Building Apple Apps" technical session at [DevSummit DC 2015](http://www.esri.com/events/devsummit-dc).
